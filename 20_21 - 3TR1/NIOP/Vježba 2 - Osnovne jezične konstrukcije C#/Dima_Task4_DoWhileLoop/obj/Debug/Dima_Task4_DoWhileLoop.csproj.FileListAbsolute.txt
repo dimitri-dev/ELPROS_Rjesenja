@@ -1,0 +1,6 @@
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task4_DoWhileLoop\bin\Debug\Dima_Task4_DoWhileLoop.exe.config
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task4_DoWhileLoop\bin\Debug\Dima_Task4_DoWhileLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task4_DoWhileLoop\bin\Debug\Dima_Task4_DoWhileLoop.pdb
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task4_DoWhileLoop\obj\Debug\Dima_Task4_DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task4_DoWhileLoop\obj\Debug\Dima_Task4_DoWhileLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task4_DoWhileLoop\obj\Debug\Dima_Task4_DoWhileLoop.pdb

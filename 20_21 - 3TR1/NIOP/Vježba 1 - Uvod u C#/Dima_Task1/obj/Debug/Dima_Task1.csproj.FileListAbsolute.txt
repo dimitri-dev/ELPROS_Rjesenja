@@ -1,0 +1,7 @@
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\obj\Debug\Dima_Task1.csprojAssemblyReference.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\obj\Debug\Dima_Task1.csproj.CoreCompileInputs.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

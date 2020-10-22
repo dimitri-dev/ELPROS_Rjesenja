@@ -1,0 +1,7 @@
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\obj\Debug\Dima_Task1_ForLoop.csprojAssemblyReference.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\obj\Debug\Dima_Task1_ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\bin\Debug\Dima_Task1_ForLoop.exe.config
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\bin\Debug\Dima_Task1_ForLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\bin\Debug\Dima_Task1_ForLoop.pdb
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\obj\Debug\Dima_Task1_ForLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task1_ForLoop\obj\Debug\Dima_Task1_ForLoop.pdb

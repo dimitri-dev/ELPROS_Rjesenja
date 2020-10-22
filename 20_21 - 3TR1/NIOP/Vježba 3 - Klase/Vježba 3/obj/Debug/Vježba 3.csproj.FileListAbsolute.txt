@@ -1,0 +1,7 @@
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\bin\Debug\Vježba 3.exe.config
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\bin\Debug\Vježba 3.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\bin\Debug\Vježba 3.pdb
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\obj\Debug\Vježba 3.csprojAssemblyReference.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\obj\Debug\Vježba 3.csproj.CoreCompileInputs.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\obj\Debug\Vježba 3.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\Vježba 3 - Klase\Vježba 3\obj\Debug\Vježba 3.pdb

@@ -1,0 +1,7 @@
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\obj\Debug\Dima_Task2.csprojAssemblyReference.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\obj\Debug\Dima_Task2.csproj.CoreCompileInputs.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\bin\Debug\Dima_Task2.exe.config
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\bin\Debug\Dima_Task2.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\bin\Debug\Dima_Task2.pdb
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\obj\Debug\Dima_Task2.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 1 - Uvod u C#\happyDimitri\Dima_Task2\obj\Debug\Dima_Task2.pdb

@@ -1,0 +1,7 @@
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\bin\Debug\Dima_Task3_WhileLoop.exe.config
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\bin\Debug\Dima_Task3_WhileLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\bin\Debug\Dima_Task3_WhileLoop.pdb
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\obj\Debug\Dima_Task3_WhileLoop.csprojAssemblyReference.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\obj\Debug\Dima_Task3_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\obj\Debug\Dima_Task3_WhileLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task3_WhileLoop\obj\Debug\Dima_Task3_WhileLoop.pdb

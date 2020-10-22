@@ -1,0 +1,13 @@
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\bin\Debug\Dima_Task2_ForEachLoop.exe.config
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\bin\Debug\Dima_Task2_ForEachLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\bin\Debug\Dima_Task2_ForEachLoop.pdb
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.exe
+C:\Users\eineSchlampe\.github\3TR\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.pdb
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\bin\Debug\Dima_Task2_ForEachLoop.exe.config
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\bin\Debug\Dima_Task2_ForEachLoop.exe
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\bin\Debug\Dima_Task2_ForEachLoop.pdb
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.csprojAssemblyReference.cache
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.exe
+C:\Users\NRG\Documents\GitHub\NIOP_2021\Vježba 2 - Osnovne jezične konstrukcije C#\Dima_Task2_ForEachLoop\obj\Debug\Dima_Task2_ForEachLoop.pdb
