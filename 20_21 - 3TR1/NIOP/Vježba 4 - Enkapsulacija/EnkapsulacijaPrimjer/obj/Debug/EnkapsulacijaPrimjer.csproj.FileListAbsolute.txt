@@ -1,0 +1,14 @@
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\bin\Debug\EnkapsulacijaPrimjer.exe.config
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\bin\Debug\EnkapsulacijaPrimjer.exe
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\bin\Debug\EnkapsulacijaPrimjer.pdb
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.csprojAssemblyReference.cache
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.csproj.CoreCompileInputs.cache
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.exe
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\ConsoleAppVježbe\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.pdb
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\bin\Debug\EnkapsulacijaPrimjer.exe.config
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\bin\Debug\EnkapsulacijaPrimjer.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\bin\Debug\EnkapsulacijaPrimjer.pdb
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.csprojAssemblyReference.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.csproj.CoreCompileInputs.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\EnkapsulacijaPrimjer\obj\Debug\EnkapsulacijaPrimjer.pdb

@@ -1,0 +1,7 @@
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\bin\Debug\Vježba 4 - Enkapsulacija.exe.config
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\bin\Debug\Vježba 4 - Enkapsulacija.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\bin\Debug\Vježba 4 - Enkapsulacija.pdb
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\obj\Debug\Vježba 4 - Enkapsulacija.csprojAssemblyReference.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\obj\Debug\Vježba 4 - Enkapsulacija.csproj.CoreCompileInputs.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\obj\Debug\Vježba 4 - Enkapsulacija.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija\obj\Debug\Vježba 4 - Enkapsulacija.pdb

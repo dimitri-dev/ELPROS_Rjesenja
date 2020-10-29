@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vježba 4 - Enkapsulacija", "Vježba 4 - Enkapsulacija\Vježba 4 - Enkapsulacija.csproj", "{0289077C-EC95-4A07-97D6-9E44D9BE9F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnkapsulacijaPrimjer", "EnkapsulacijaPrimjer\EnkapsulacijaPrimjer.csproj", "{A9D10922-6F56-4360-9C22-140B5F5C9E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0289077C-EC95-4A07-97D6-9E44D9BE9F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0289077C-EC95-4A07-97D6-9E44D9BE9F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0289077C-EC95-4A07-97D6-9E44D9BE9F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0289077C-EC95-4A07-97D6-9E44D9BE9F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D10922-6F56-4360-9C22-140B5F5C9E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D10922-6F56-4360-9C22-140B5F5C9E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D10922-6F56-4360-9C22-140B5F5C9E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D10922-6F56-4360-9C22-140B5F5C9E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5424C093-E5C0-47B4-B963-57BC28EB53D8}
+	EndGlobalSection
+EndGlobal
