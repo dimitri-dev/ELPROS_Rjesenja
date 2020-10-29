@@ -43,6 +43,11 @@ namespace Vježba_4___Enkapsulacija
             uc.OutputGrades();
         }
 
+        public void LockGrade(Ucenik uc)
+        {
+            uc.LockGrade();
+        }
+
         #endregion methods
     }
 }

@@ -16,6 +16,8 @@ namespace Vježba_4___Enkapsulacija
         public int OIB;
         public List<int> ocjene;
         public float prosjek;
+
+        public int zakljucna_ocjena;
         #endregion
 
         #region constructors
@@ -43,19 +45,40 @@ namespace Vježba_4___Enkapsulacija
 
         public void OutputGrades()
         {
-            Console.WriteLine($"Ocjene {ime} {prezime}a su: ");
+            Console.Write($"Ocjene {ime} {prezime}a (Razred: {razred}, OIB: {OIB}) su: ");
             foreach (int grade in ocjene)
             {
                 Console.Write($"{grade} ");
             }
-            Console.WriteLine();
+            Console.Write("\n");
         }
 
         public void OutputAverage()
         {
             this.prosjek = CalculateAverage();
-            Console.WriteLine($"Prosjek {ime} {prezime}a je {prosjek}.");
+            Console.WriteLine($"Prosjek {ime} {prezime}a je {prosjek:0.00}.");
         }
+
+        #region problem_task_addition
+        public void LockGrade()
+        {
+            Console.Write($"\nUnesite zakljucnu ocjenu {ime} {prezime}a: ");
+            zakljucna_ocjena = Convert.ToInt32(Console.ReadLine());
+
+            if (zakljucna_ocjena > Convert.ToInt32(Math.Round(prosjek)))
+                Console.WriteLine("Zakljucna ocjena veca je od prosjeka.");
+            else if (zakljucna_ocjena < Convert.ToInt32(Math.Round(prosjek)))
+                Console.WriteLine("Zakljucna ocjena manja je od prosjeka.");
+            else
+                Console.WriteLine("Zakljucna ocjena jednaka je prosjeku.");
+        }
+
+        public void OutputLockedGrade()
+        {
+            Console.Write($"Zakljucna ocjena iznosi {zakljucna_ocjena}.\n\n");
+        }
+
+        #endregion
 
         private float CalculateAverage()
         {
