@@ -45,9 +45,10 @@ namespace Vježba_4___Enkapsulacija
             Console.WriteLine("\n");
 
             // Ispisati ucenika sa najvecim prosjekom
-            Pair max = ArrayMaxProsjek(ucenici);
-            Console.WriteLine($"Ucenik sa najvecim prosjekom je {ucenici[max.element_One].ime} {ucenici[max.element_One].prezime}," +
-                              $" a njegov prosjek iznosi {max.element_Two}\n");
+            // v2 - Ipak uspio rjesiti LINQ-om.
+            var prosjeci = ucenici.Select(o => o.prosjek).ToList();
+            Console.WriteLine($"Ucenik sa najvecim prosjekom je {ucenici[prosjeci.IndexOf(prosjeci.Max())].ime} {ucenici[prosjeci.IndexOf(prosjeci.Max())].prezime}," +
+                              $" a njegov prosjek iznosi {prosjeci.Max()}\n");
 
             #endregion
 
@@ -70,48 +71,6 @@ namespace Vježba_4___Enkapsulacija
             }
             #endregion
             Console.ReadLine();
-        }
-
-        public static Pair ArrayMaxProsjek(Ucenik[] arr)
-        {
-            int index = -1;
-            float max = -1;
-            
-            // Message for professor:
-            // Pokusao sam ovo nekako rjesiti sa LINQ-om, ali zapravo nisam imao blage veze... :/
-            // Ideja je bila da se napravi nekakav linq sa foreach-om koji ce uzet svaki "Ucenik ucenik in ucenici"
-            // Te access-ati njegov .prosjek atribut i append-ati ga u neku listu/array
-            // Ako imate ideju kako bi se to radilo u ovom kodu, please let me know :)
-
-            for (int i = 0; i < arr.Length; ++i)
-            {
-                if (arr[i].prosjek > max)
-                {
-                    max = arr[i].prosjek;
-                    index = i;
-                }
-            }
-
-            return new Pair(index, max);
-        }
-    }
-
-    public class Pair
-    {
-        // int - index_ucenika, float - prosjek_ucenika
-        public int element_One;
-        public float element_Two;
-
-        public Pair(int a, float v)
-        {
-            element_One = a;
-            element_Two = v;
-        }
-
-        public Pair()
-        {
-            element_One = -1; // nevaljani index
-            element_Two = -1; // nevaljani prosjek
         }
     }
 }
