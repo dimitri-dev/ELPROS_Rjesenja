@@ -1,0 +1,15 @@
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\Vježba 5 - Stringovi.exe
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\Vježba 5 - Stringovi.deps.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\Vježba 5 - Stringovi.runtimeconfig.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\Vježba 5 - Stringovi.runtimeconfig.dev.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\Vježba 5 - Stringovi.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\ref\Vježba 5 - Stringovi.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\bin\Debug\net5.0\Vježba 5 - Stringovi.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.AssemblyInfo.cs
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\ref\Vježba 5 - Stringovi.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 5 - Stringovi\Vježba 5 - Stringovi\obj\Debug\net5.0\Vježba 5 - Stringovi.genruntimeconfig.cache
