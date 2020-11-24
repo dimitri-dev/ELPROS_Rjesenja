@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+
+body
+{
+    margin: 0;
+}
+
+main
+{
+    background-color: darkgray;
+    fill-opacity: 0.4;
+}
+
+h2
+{
+    color: whitesmoke;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel {
+    border: 6.9px solid whitesmoke;
+}
