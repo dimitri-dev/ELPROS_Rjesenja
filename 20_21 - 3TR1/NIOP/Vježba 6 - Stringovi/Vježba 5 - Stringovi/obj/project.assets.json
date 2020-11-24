@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimadev\\.github\\ELPROS_Rjesenja\\20_21 - 3TR1\\NIOP\\Vježba 5 - Stringovi\\Vježba 5 - Stringovi\\Vježba 5 - Stringovi.csproj",
-      "projectName": "Vježba 5 - Stringovi",
-      "projectPath": "C:\\Users\\dimadev\\.github\\ELPROS_Rjesenja\\20_21 - 3TR1\\NIOP\\Vježba 5 - Stringovi\\Vježba 5 - Stringovi\\Vježba 5 - Stringovi.csproj",
+      "projectUniqueName": "C:\\Users\\dimadev\\.github\\ELPROS_Rjesenja\\20_21 - 3TR1\\NIOP\\Vježba 6 - Stringovi\\Vježba 5 - Stringovi\\Vježba 6 - Stringovi.csproj",
+      "projectName": "Vježba 6 - Stringovi",
+      "projectPath": "C:\\Users\\dimadev\\.github\\ELPROS_Rjesenja\\20_21 - 3TR1\\NIOP\\Vježba 6 - Stringovi\\Vježba 5 - Stringovi\\Vježba 6 - Stringovi.csproj",
       "packagesPath": "C:\\Users\\dimadev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimadev\\.github\\ELPROS_Rjesenja\\20_21 - 3TR1\\NIOP\\Vježba 5 - Stringovi\\Vježba 5 - Stringovi\\obj\\",
+      "outputPath": "C:\\Users\\dimadev\\.github\\ELPROS_Rjesenja\\20_21 - 3TR1\\NIOP\\Vježba 6 - Stringovi\\Vježba 5 - Stringovi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
