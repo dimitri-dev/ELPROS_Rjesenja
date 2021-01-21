@@ -1,0 +1,13 @@
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\bin\Debug\netcoreapp3.1\Zadatak3.exe
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\bin\Debug\netcoreapp3.1\Zadatak3.deps.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\bin\Debug\netcoreapp3.1\Zadatak3.runtimeconfig.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\bin\Debug\netcoreapp3.1\Zadatak3.runtimeconfig.dev.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\bin\Debug\netcoreapp3.1\Zadatak3.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\bin\Debug\netcoreapp3.1\Zadatak3.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.AssemblyInfo.cs
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Zadatak3\obj\Debug\netcoreapp3.1\Zadatak3.genruntimeconfig.cache

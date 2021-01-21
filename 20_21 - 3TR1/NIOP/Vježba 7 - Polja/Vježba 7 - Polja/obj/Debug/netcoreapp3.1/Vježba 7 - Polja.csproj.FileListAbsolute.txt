@@ -1,0 +1,13 @@
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\bin\Debug\netcoreapp3.1\Vježba 7 - Polja.exe
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\bin\Debug\netcoreapp3.1\Vježba 7 - Polja.deps.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\bin\Debug\netcoreapp3.1\Vježba 7 - Polja.runtimeconfig.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\bin\Debug\netcoreapp3.1\Vježba 7 - Polja.runtimeconfig.dev.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\bin\Debug\netcoreapp3.1\Vježba 7 - Polja.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\bin\Debug\netcoreapp3.1\Vježba 7 - Polja.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.AssemblyInfo.cs
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 7 - Polja\Vježba 7 - Polja\obj\Debug\netcoreapp3.1\Vježba 7 - Polja.genruntimeconfig.cache
