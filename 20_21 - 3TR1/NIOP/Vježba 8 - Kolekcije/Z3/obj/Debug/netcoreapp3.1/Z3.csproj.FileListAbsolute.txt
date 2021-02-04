@@ -1,0 +1,13 @@
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\bin\Debug\netcoreapp3.1\Z3.exe
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\bin\Debug\netcoreapp3.1\Z3.deps.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\bin\Debug\netcoreapp3.1\Z3.runtimeconfig.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\bin\Debug\netcoreapp3.1\Z3.runtimeconfig.dev.json
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\bin\Debug\netcoreapp3.1\Z3.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\bin\Debug\netcoreapp3.1\Z3.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.AssemblyInfo.cs
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.dll
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.pdb
+C:\Users\dimadev\.github\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 8 - Kolekcije\Z3\obj\Debug\netcoreapp3.1\Z3.genruntimeconfig.cache
