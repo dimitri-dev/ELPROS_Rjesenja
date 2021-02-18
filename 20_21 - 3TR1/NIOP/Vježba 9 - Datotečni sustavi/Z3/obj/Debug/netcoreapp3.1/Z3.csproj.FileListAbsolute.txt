@@ -1,0 +1,13 @@
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\bin\Debug\netcoreapp3.1\Z3.exe
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\bin\Debug\netcoreapp3.1\Z3.deps.json
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\bin\Debug\netcoreapp3.1\Z3.runtimeconfig.json
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\bin\Debug\netcoreapp3.1\Z3.runtimeconfig.dev.json
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\bin\Debug\netcoreapp3.1\Z3.dll
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\bin\Debug\netcoreapp3.1\Z3.pdb
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.csprojAssemblyReference.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.AssemblyInfoInputs.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.AssemblyInfo.cs
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.csproj.CoreCompileInputs.cache
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.dll
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.pdb
+C:\Users\NRG\Documents\GitHub\ELPROS_Rjesenja\20_21 - 3TR1\NIOP\Vježba 9 - Datotečni sustavi\Z3\obj\Debug\netcoreapp3.1\Z3.genruntimeconfig.cache
