@@ -1,0 +1,13 @@
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\bin\Debug\netcoreapp3.1\_PZ1.exe
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\bin\Debug\netcoreapp3.1\_PZ1.deps.json
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\bin\Debug\netcoreapp3.1\_PZ1.runtimeconfig.json
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\bin\Debug\netcoreapp3.1\_PZ1.runtimeconfig.dev.json
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\bin\Debug\netcoreapp3.1\_PZ1.dll
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\bin\Debug\netcoreapp3.1\_PZ1.pdb
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.csprojAssemblyReference.cache
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.AssemblyInfoInputs.cache
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.AssemblyInfo.cs
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.dll
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.pdb
+C:\Users\Učenik 3\source\repos\_PZ1\_PZ1\obj\Debug\netcoreapp3.1\_PZ1.genruntimeconfig.cache

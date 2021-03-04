@@ -1,0 +1,44 @@
+
+-- MAIN LOG: 4.3.2021. 13:33:29 - Inicijalizacija teksta --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Inicijalizacija teksta --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Tekst inicijaliziran. --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Ispis izvršen. --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Ispivianje teksta sa malim slovima. --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Ispis izvršen --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Kreiranje Hello World datoteke... --
+-- MAIN LOG: 4.3.2021. 13:34:46 - Kreirana Hello World datoteka. --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Inicijalizacija teksta --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Tekst inicijaliziran. --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Ispis izvršen. --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Ispivianje teksta sa malim slovima. --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Ispis izvršen --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Kreiranje Hello World datoteke... --
+-- MAIN LOG: 4.3.2021. 13:35:05 - Kreirana Hello World datoteka. --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Inicijalizacija teksta --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Tekst inicijaliziran. --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Ispis izvršen. --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Ispivianje teksta sa malim slovima. --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Ispis izvršen --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Kreiranje Hello World datoteke... --
+-- MAIN LOG: 4.3.2021. 13:35:54 - Kreirana Hello World datoteka. --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Inicijalizacija teksta --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Tekst inicijaliziran. --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Ispis izvršen. --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Ispivianje teksta sa malim slovima. --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Ispis izvršen --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Kreiranje Hello World datoteke... --
+-- MAIN LOG: 4.3.2021. 13:36:33 - Kreirana Hello World datoteka. --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Inicijalizacija teksta --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Tekst inicijaliziran. --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Ispis izvršen. --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Ispivianje teksta sa malim slovima. --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Ispis izvršen --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Kreiranje Hello World C# datoteke... --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Kreirana Hello World C# datoteka. --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Kreiranje Hello World HTML datoteke... --
+-- MAIN LOG: 4.3.2021. 13:41:09 - Kreirana Hello World HTML datoteka. --
