@@ -1,0 +1,18 @@
+
+-- MAIN LOG: 18.3.2021. 13:57:49 - Inicijaliziranje unosa datoteke. --
+-- MAIN LOG: 18.3.2021. 13:57:54 - Datoteka ne postoji. Traženje korisnika da unese novu. --
+-- MAIN LOG: 18.3.2021. 13:57:54 - Inicijaliziranje unosa datoteke. --
+-- MAIN LOG: 18.3.2021. 13:58:12 - Inicijalizacija tekstualne datoteke. --
+-- MAIN LOG: 18.3.2021. 13:58:12 - Tekst inicijaliziran. --
+-- MAIN LOG: 18.3.2021. 13:58:12 - Inicijalizacija tekstualne datoteke. --
+-- MAIN LOG: 18.3.2021. 13:58:12 - Tekst inicijaliziran. --
+-- MAIN LOG: 18.3.2021. 13:58:12 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 18.3.2021. 13:58:12 - Ispis izvršen. --
+-- MAIN LOG: 18.3.2021. 13:59:27 - Inicijaliziranje unosa datoteke. --
+-- MAIN LOG: 18.3.2021. 13:59:44 - Kreiranje Hello World C# datoteke... --
+-- MAIN LOG: 18.3.2021. 13:59:44 - Kreirana Hello World C# datoteka. --
+-- MAIN LOG: 18.3.2021. 14:00:33 - Inicijaliziranje unosa datoteke. --
+-- MAIN LOG: 18.3.2021. 14:00:35 - Inicijalizacija tekstualne datoteke. --
+-- MAIN LOG: 18.3.2021. 14:00:35 - Tekst inicijaliziran. --
+-- MAIN LOG: 18.3.2021. 14:00:35 - Ispisivanje teksta sa velikim slovima. --
+-- MAIN LOG: 18.3.2021. 14:00:35 - Ispis izvršen. --
