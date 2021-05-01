@@ -1,0 +1,145 @@
+header
+{
+    line-height: 15vh;
+    font-size: 5vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 30vh;
+}
+
+h1
+{
+    text-align: center;
+    color: black;
+}
+
+main
+{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#izbornik
+{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 3vh;
+}
+
+.regularbtn a
+{
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+.regularbtn
+{
+    display: inline-block;
+    border: solid black;
+    border-radius: 0.5vw;
+    width: 23%;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    vertical-align: middle;
+    background-color: rgb(36, 36, 114);
+}
+
+.regularbtn:hover
+{
+    background-color: rgb(243, 146, 0);
+}
+
+.dropbtn
+{
+    color: white;
+    border: none;
+}
+
+.dropdown
+{
+    position: relative;
+    border-radius: 0.5vw;
+    width: 23%;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+
+.dropdown-content a
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown:hover .dropdown-content
+{
+    display: block;
+}
+
+.dropdown-content a:link
+{
+    color: white;
+    background-color: rgb(36, 36, 114);
+    border-radius: 0.5vw;
+    width: 100%;
+}
+
+.dropdown a:hover
+{
+    background-color: rgb(243, 146, 0);
+}
+
+.dropdown-content a:hover
+{
+    background-color: rgb(243, 146, 0);
+}
+
+a:visited
+{
+    background-color: rgb(0, 238, 255);
+}
+
+ol
+{
+    margin-left: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+ul
+{
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    height: inherit;
+    margin: 0;
+}
+
+li
+{
+    border: solid black;
+    border-radius: 0.5vw;
+    background-color: rgb(36, 36, 114);
+}
+
+li:hover
+{
+    background-color: rgb(243, 146, 0);
+}
