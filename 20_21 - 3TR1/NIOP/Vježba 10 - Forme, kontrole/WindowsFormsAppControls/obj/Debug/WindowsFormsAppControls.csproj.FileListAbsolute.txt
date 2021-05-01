@@ -1,0 +1,30 @@
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.exe.config
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.exe
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.pdb
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csprojAssemblyReference.cache
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.Form1.resources
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.Properties.Resources.resources
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csproj.GenerateResource.cache
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csproj.CoreCompileInputs.cache
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.exe
+E:\Škola\ELPROS-New\2019-2020\3TR1\Visual studio - 3\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.pdb
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csprojAssemblyReference.cache
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.Form1.resources
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.Properties.Resources.resources
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csproj.GenerateResource.cache
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csproj.CoreCompileInputs.cache
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.exe
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.pdb
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.exe.config
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.exe
+C:\Users\Maki\Google disk\ELPROS-New\2020-2021\Predmeti\NIOP\3\Vježbe\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.pdb
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.exe.config
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.exe
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\bin\Debug\WindowsFormsAppControls.pdb
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csprojAssemblyReference.cache
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.Form1.resources
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.Properties.Resources.resources
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csproj.GenerateResource.cache
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.exe
+C:\Users\Učenik 3\Desktop\WindowsFormsAppControls\WindowsFormsAppControls\obj\Debug\WindowsFormsAppControls.pdb
