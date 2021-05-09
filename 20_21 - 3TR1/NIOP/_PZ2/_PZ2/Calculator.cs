@@ -210,15 +210,20 @@ namespace NIOP
         private void Calculator_ResetCurrentInput(object sender, EventArgs e)
         {
             _CurrentStack = "0";
+            _CommaUsed = false;
             Handle_UpdateCurrentStack();
         }
 
         private void Calculator_ResetEverything(object sender, EventArgs e)
         {
-            _Equation = "";
             _Result = 0.0f;
             _SignOp = 1;
+
+            _Equation = "";
             _CurrentStack = "0";
+            _Operation = '$';
+
+            _CommaUsed = false;
 
             Handle_UpdateCurrentStack();
             Handle_UpdateEquationStack();
